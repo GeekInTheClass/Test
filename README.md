@@ -1,5 +1,12 @@
+# repository 만드는 방법
+repository 만드는 방법
+![](https://github.com/GeekInTheClass/test/blob/master/repository.png)
+
 # clone 하는 방법
 ![](https://github.com/GeekInTheClass/test/blob/master/clone.png)
+
+# pull 하는 방법
+![](https://github.com/GeekInTheClass/test/blob/master/pull.png)
 
 
 # pull 연습 해볼까? 그리고 충돌도!
