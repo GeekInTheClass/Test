@@ -1,3 +1,7 @@
+# clone 하는 방법
+![](https://github.com/GeekInTheClass/test/blob/master/clone.png)
+
+
 # pull 연습 해볼까? 그리고 충돌도!
 
 # branch도 연습 함
